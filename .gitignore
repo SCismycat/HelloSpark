@@ -8,5 +8,5 @@
 out
 gen
 data
-src/main/resources
+src/main/resources/*
 target
