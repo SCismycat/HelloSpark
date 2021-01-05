@@ -1,5 +1,6 @@
-import org.apache.spark.sql.SparkSession
+package org.sia.App
 
+import org.apache.spark.sql.SparkSession
 
 object GitbhubAnly {
   def main(args: Array[String]): Unit = {
@@ -30,5 +31,3 @@ object GitbhubAnly {
 
   }
 }
-
-

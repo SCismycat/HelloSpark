@@ -1,4 +1,5 @@
-import org.apache.spark
+package org.sia.App
+
 import org.apache.spark.ml.fpm.FPGrowth
 import org.apache.spark.sql.SparkSession
 
